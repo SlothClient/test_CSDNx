@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-06T00:51:42",
-  "count": 186,
+  "updatedAt": "2026-06-27T15:04:26",
+  "count": 190,
   "items": [
     {
       "sourcePath": "markdown/已发布/公开/BOM对象location与数组操作结合——查询串提取案例.assets/342e8d3bd899306e.png",
@@ -253,6 +253,42 @@
       "url": "https://pub-93427c0daded44f4ba9e82a03e799750.r2.dev/csdn-images/5e/5ee6d291f0c90c68fa452de3e4d61219272c65a0095c4506a283511ebc9e8cb2.webp",
       "size": 432426,
       "sha256": "5ee6d291f0c90c68fa452de3e4d61219272c65a0095c4506a283511ebc9e8cb2"
+    },
+    {
+      "sourcePath": "markdown/已发布/公开/uni-app小程序体验版报错无法连接uniCloud本地调试，咋回事？.assets/0ad1db9697ea25d6.png",
+      "markdownPath": "markdown/已发布/公开/uni-app小程序体验版报错无法连接uniCloud本地调试，咋回事？.md",
+      "kind": "markdown",
+      "r2Key": "csdn-images/e3/e37d6aae5a8981c6b83f3f67fcdd9440f463657401c235e38db29d987693334d.png",
+      "url": "https://pub-93427c0daded44f4ba9e82a03e799750.r2.dev/csdn-images/e3/e37d6aae5a8981c6b83f3f67fcdd9440f463657401c235e38db29d987693334d.png",
+      "size": 43078,
+      "sha256": "e37d6aae5a8981c6b83f3f67fcdd9440f463657401c235e38db29d987693334d"
+    },
+    {
+      "sourcePath": "markdown/已发布/公开/uni-app小程序体验版报错无法连接uniCloud本地调试，咋回事？.assets/71d1da8be7bef944.png",
+      "markdownPath": "markdown/已发布/公开/uni-app小程序体验版报错无法连接uniCloud本地调试，咋回事？.md",
+      "kind": "markdown",
+      "r2Key": "csdn-images/4e/4e9c5bae70620998be0ca8eb60bc2c8fd222e9005029ec3cedb58dee977d4fca.png",
+      "url": "https://pub-93427c0daded44f4ba9e82a03e799750.r2.dev/csdn-images/4e/4e9c5bae70620998be0ca8eb60bc2c8fd222e9005029ec3cedb58dee977d4fca.png",
+      "size": 33287,
+      "sha256": "4e9c5bae70620998be0ca8eb60bc2c8fd222e9005029ec3cedb58dee977d4fca"
+    },
+    {
+      "sourcePath": "markdown/已发布/公开/uni-app小程序体验版报错无法连接uniCloud本地调试，咋回事？.assets/d5b88100d70df680.png",
+      "markdownPath": "markdown/已发布/公开/uni-app小程序体验版报错无法连接uniCloud本地调试，咋回事？.md",
+      "kind": "markdown",
+      "r2Key": "csdn-images/ad/ad1b187d8966aab7804b83322da52e50225915a1b907f6b719021c1291d7624d.png",
+      "url": "https://pub-93427c0daded44f4ba9e82a03e799750.r2.dev/csdn-images/ad/ad1b187d8966aab7804b83322da52e50225915a1b907f6b719021c1291d7624d.png",
+      "size": 216173,
+      "sha256": "ad1b187d8966aab7804b83322da52e50225915a1b907f6b719021c1291d7624d"
+    },
+    {
+      "sourcePath": "markdown/已发布/公开/uni-app小程序体验版报错无法连接uniCloud本地调试，咋回事？.assets/f2ce90e64236b0c9.png",
+      "markdownPath": "markdown/已发布/公开/uni-app小程序体验版报错无法连接uniCloud本地调试，咋回事？.md",
+      "kind": "markdown",
+      "r2Key": "csdn-images/1f/1f05ef9da24f1763982b0b38541dcfa256d2f15e12bdd6647936157aab8e2dd2.png",
+      "url": "https://pub-93427c0daded44f4ba9e82a03e799750.r2.dev/csdn-images/1f/1f05ef9da24f1763982b0b38541dcfa256d2f15e12bdd6647936157aab8e2dd2.png",
+      "size": 50481,
+      "sha256": "1f05ef9da24f1763982b0b38541dcfa256d2f15e12bdd6647936157aab8e2dd2"
     },
     {
       "sourcePath": "markdown/已发布/公开/windows中使用cmd_powershell查杀进程.assets/67606e15e356253f.png",
